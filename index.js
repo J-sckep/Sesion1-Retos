@@ -1,3 +1,3 @@
-const multiplica = require('./modulo-personalizado');
+const multiplica = require('./modulopersonalizado');
 
-multiplica(12,100);
+multiplica(12, 100);
