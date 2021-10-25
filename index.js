@@ -1,6 +1,3 @@
-function suma(numero1, numero2) {
-  let suma = numero1 + numero2;
-  console.log(`El resultado de la suma es: ${suma}`);
-}
+const multiplica = require('./modulo-personalizado');
 
-suma(10, 20);
+multiplica(12,100);
